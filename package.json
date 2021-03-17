@@ -1,0 +1,30 @@
+{
+  "name": "react-three-fiber-importing-scenes-with-actions-from-blender",
+  "version": "1.0.0",
+  "description": "use the gltfjsx tool to convert a glb file to a react component and hook up multiple scene animations to an object.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-three/drei": "2.2.12",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.3",
+    "react-three-fiber": "5.3.10",
+    "three": "0.124.0"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
